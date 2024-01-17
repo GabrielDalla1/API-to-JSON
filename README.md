@@ -1,2 +1,2 @@
 # All Lines Into One JSON
-Retrieve all the lines from your dazsoft SaaS and turn all into only a only JSON with API.
+Retrieving all API JSON data into only one JSON file that contains all data from the cliente companies, that way it can be imported to excel.
